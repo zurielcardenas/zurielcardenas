@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zuriel cárdenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zuriel cárdenas" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/zuriel-cárdenas-25b00b215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zuriel cárdenas" height="30" width="40" /></a>
 <a href="https://fb.com/gadi zuriel cárdenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gadi zuriel cárdenas" height="30" width="40" /></a>
 <a href="https://instagram.com/@lilgadi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lilgadi98" height="30" width="40" /></a>
 <a href="https://discord.gg/lilgadi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lilgadi98" height="30" width="40" /></a>
