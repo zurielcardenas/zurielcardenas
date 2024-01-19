@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **@lilgadi on Instagram**
 
-- 📄 Know about my experiences [Knowledge in HTML5 and CSS](Knowledge in HTML5 and CSS)
+- 📄 Know about my experiences Knowledge in HTML5 and CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
