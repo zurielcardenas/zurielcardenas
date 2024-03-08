@@ -3,20 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zurielcardenas&label=Profile%20views&color=0e75b6&style=flat" alt="zurielcardenas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zurielcardenas" alt="zurielcardenas" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Engineering**
 
 - 📫 How to reach me **@lilgadi on Instagram**
 
-- 📄 Know about my experiences (Knowledge in HTML5 and CSS)
+- 📄 Know about my experiences Knowledge in HTML5 and CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zuriel-c%c3%a1rdenas-25b00b215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zuriel-c%c3%a1rdenas-25b00b215/" height="30" width="40" /></a>
-<a href="https://fb.com/gadi zuriel cárdenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gadi zuriel cárdenas" height="30" width="40" /></a>
-<a href="https://instagram.com/@lilgadi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lilgadi98" height="30" width="40" /></a>
-<a href="https://discord.gg/lilgadi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lilgadi98" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
